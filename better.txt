@@ -1,1 +1,1 @@
-I just created this file to check the function of git ftch in conflict resolution
+I just created this file to check the function of git fetch in conflict resolution
